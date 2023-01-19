@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 //https://codingbat.com/prob/p191914
 
 //Given a string, return a new string where "not " has been added to the front.

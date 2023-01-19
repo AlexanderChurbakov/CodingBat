@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*
 Given a non-empty string and an int n, return a new string where the char at index n has been removed.

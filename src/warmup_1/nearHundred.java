@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 //https://codingbat.com/prob/p184004
 
 //Given an int n, return true if it is within 10 of 100 or 200.

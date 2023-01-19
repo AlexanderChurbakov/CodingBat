@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*
 Given 2 int values, return whichever value is nearest to the value 10,

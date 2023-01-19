@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 //https://codingbat.com/prob/p159227
 
 //Given 2 int values, return true if one is negative and one is positive.

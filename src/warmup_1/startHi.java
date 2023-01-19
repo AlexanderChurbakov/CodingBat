@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*Given a string, return true if the string starts with "hi" and false otherwise.*/
 

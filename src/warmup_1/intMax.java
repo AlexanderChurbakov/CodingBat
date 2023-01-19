@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*
 Given three int values, a b c, return the largest. */

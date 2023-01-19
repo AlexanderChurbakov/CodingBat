@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*Given a string, we'll say that the front is the first 3 chars of the string.
 If the string length is less than 3, the front is whatever is there.

@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*Given a string, if the string "del" appears starting at index 1,
 return a string where that "del" has been deleted.

@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 
 /*We'll say that a number is "teen" if it is in the range 13..19 inclusive.

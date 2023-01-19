@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 //https://codingbat.com/prob/p182873
 
 //Given 2 ints, a and b, return true if one if them is 10 or if their sum is 10.

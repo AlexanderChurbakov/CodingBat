@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*Given a string, take the last char and return a new string with
 the last char added at the front and back, so "cat" yields "tcatt".

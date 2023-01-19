@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*Given a string, return a new string where the first and last chars have been exchanged.*/
 

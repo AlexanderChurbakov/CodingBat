@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*
 Given a string, return a string made of the first 2 chars (if present),

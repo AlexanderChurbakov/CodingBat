@@ -1,4 +1,4 @@
-package Warmup_1;
+package warmup_1;
 
 /*
 Given 2 int values, return true if they are both in the range 30..40 inclusive,
